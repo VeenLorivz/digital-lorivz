@@ -3,7 +3,7 @@ const MINUTE = document.querySelector(".menit");
 
 const waktuSekarang = function () {
   const date = new Date();
-  let jam = 11;
+  let jam = date.getHours();
   const menit = date.getMinutes();
 
   setTimeout(() => {
