@@ -1,2 +1,2 @@
 # digital-lorivz
-Webite Jam Digital
+Webite Jam Digital Sederhana dan belum menggunakan teknik responsive
